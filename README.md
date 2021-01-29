@@ -1,11 +1,11 @@
 <h1 align="center">
-   Double Triple Square Root
+   Measurement converter
 
 
 </h1>
 
 <h2 align="center">
-System for calculating double, triple and the square root of a number
+Convert from meters to centimeters and millimeters
 </h2>
 
 <h3 align="center"> created with Python </h3>
@@ -20,4 +20,4 @@ System for calculating double, triple and the square root of a number
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by Developer Mattos</h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by Space Solution Open Projects</h4>
